@@ -1,0 +1,32 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+body{
+background-image: url("https://www.corning-cc.edu/sites/default/files/styles/headline/public/game-design-788x360.jpg?itok=mJhoudDp")}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+  padding-left: 18%;
+} 
+
+li a {
+  display: block;
+  color: white;
+  font: Georgia;
+  font-size: 24px;
+  text-align: center;
+  padding: 18px;
+  text-decoration: none;
+}
